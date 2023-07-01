@@ -1,4 +1,7 @@
 ### Hi there 👋
+This is where I'm testing static sites. o_o
+
+
 
 <!--
 **Lia-mon/Lia-mon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
